@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### List of things
+1. Means
+2. Motive
+3. Opportunity
