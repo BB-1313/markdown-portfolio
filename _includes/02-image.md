@@ -1,1 +1,1 @@
-! [Image of interest](https://picsum.photos/1600/1080)
+![Random Image](https://picsum.photos/1600/1080)
